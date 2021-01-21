@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f99941d3-4d56-4aa9-9806-275bae64002f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/screens/LoginPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/screens/LoginPage.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="ProjectId" id="1irSMdfqHQ7H8lnk5TLFL6RDLz6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../NejmaApp/nejma-UX" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\HP\node_modules\prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\projects\pro-shop" />
+      <recent name="C:\Users\HP\Desktop\projects\pro-shop\frontend\src\redux" />
+      <recent name="C:\Users\HP\Desktop\projects\pro-shop\frontend\src" />
+      <recent name="C:\Users\HP\Desktop\projects\pro-shop\backend" />
+      <recent name="C:\Users\HP\Desktop\projects\pro-shop\backend\data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f99941d3-4d56-4aa9-9806-275bae64002f" name="Default Changelist" comment="" />
+      <created>1602664170249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602664170249</updated>
+      <workItem from="1602664171332" duration="175000" />
+      <workItem from="1602672729852" duration="19000" />
+      <workItem from="1602701889038" duration="606000" />
+      <workItem from="1602745698775" duration="7018000" />
+      <workItem from="1602784330044" duration="1369000" />
+      <workItem from="1602875993463" duration="7392000" />
+      <workItem from="1602941546568" duration="1036000" />
+      <workItem from="1602946708470" duration="7866000" />
+      <workItem from="1602993712320" duration="6783000" />
+      <workItem from="1603044544923" duration="5815000" />
+      <workItem from="1603097115863" duration="6132000" />
+      <workItem from="1603141211569" duration="3406000" />
+      <workItem from="1603167173902" duration="6925000" />
+      <workItem from="1603223327754" duration="3890000" />
+      <workItem from="1603271441008" duration="18000" />
+      <workItem from="1603279606044" duration="4348000" />
+      <workItem from="1603334733042" duration="12972000" />
+      <workItem from="1603396183717" duration="4860000" />
+      <workItem from="1603460523748" duration="2563000" />
+      <workItem from="1603539404514" duration="2315000" />
+      <workItem from="1603549506461" duration="2287000" />
+      <workItem from="1603560209467" duration="9290000" />
+      <workItem from="1603615237596" duration="3919000" />
+      <workItem from="1603634431902" duration="1269000" />
+      <workItem from="1603650084931" duration="1775000" />
+      <workItem from="1603701858607" duration="14780000" />
+      <workItem from="1603809627563" duration="600000" />
+      <workItem from="1603878828055" duration="3948000" />
+      <workItem from="1603924227986" duration="3703000" />
+      <workItem from="1604047152845" duration="8224000" />
+      <workItem from="1604072721723" duration="6000" />
+      <workItem from="1604144112388" duration="5872000" />
+      <workItem from="1604184756064" duration="3873000" />
+      <workItem from="1604235257500" duration="656000" />
+      <workItem from="1604257959097" duration="5013000" />
+      <workItem from="1604308369717" duration="718000" />
+      <workItem from="1604325690173" duration="14405000" />
+      <workItem from="1604402706519" duration="2250000" />
+      <workItem from="1604474164082" duration="3108000" />
+      <workItem from="1604499116002" duration="5128000" />
+      <workItem from="1604530907557" duration="4216000" />
+      <workItem from="1604599725349" duration="1200000" />
+      <workItem from="1604607954091" duration="6098000" />
+      <workItem from="1604672839649" duration="4758000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602747024078">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="174" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1602747024078" />
+    <state x="479" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604682149242">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="479" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1604682149242" />
+    <state x="450" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602947824986">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="450" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860@0.0.1440.860" timestamp="1602947824986" />
+    <state x="698" y="166" key="FileChooserDialogImpl" timestamp="1604410953795">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="662" y="141" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603045446469" />
+    <state x="698" y="166" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1604410953795" />
+    <state x="221" y="75" key="SettingsEditor" timestamp="1602747561519">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="221" y="75" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1602747561519" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1604268517338">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1440.860@0.0.1440.860" timestamp="1604268517338" />
+    <state x="427" y="163" width="585" height="534" key="find.popup" timestamp="1604682921060">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="427" y="163" width="585" height="534" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1604682921060" />
+    <state x="376" y="195" key="run.anything.popup" timestamp="1603280229152">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="376" y="195" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1603280229152" />
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1603364362506">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1603364362506" />
+  </component>
+</project>
